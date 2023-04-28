@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning  Html and JS,python and C
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me 
-- :9884569223
-- :othiraja64@gmail.com/gopurajmanickam@gmail.com
+- :8825722455
+- :othiraja64@gmail.com / gopurajmanickam@gmail.com
 - :I'm a student of SRM IST Ramapuram 
-- :1st Year.
+- :1st Year.cse
 - 
 
 <!---
