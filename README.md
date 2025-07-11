@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://othi-raja.github.io/OthiRaja/](https://othi-raja.github.io/OthiRaja/)
 
-- 💬 Ask me about **React,flask**
 
 - 📫 How to reach me **othiraja64@gmail.com**
 
