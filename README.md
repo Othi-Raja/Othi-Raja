@@ -4,7 +4,7 @@
 
 ### Full Stack Developer & UI Designer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A56DB?style=for-the-badge&logo=firefox&logoColor=white)](https://othi-raja.github.io/OthiRaja/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A56DB?style=for-the-badge&logo=firefox&logoColor=white)](https://othi-raja.github.io/OthiRaja/) 
 [![Resume](https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=googledrive&logoColor=white)](https://www.canva.com/design/DAF0cDxrFUo/view)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othi-raja-45176b255/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/othiraja_/)
