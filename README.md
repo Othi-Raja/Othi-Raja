@@ -39,7 +39,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-
+ 
 <div align="center"> 
 
 ![OthiRaja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Othi-Raja&show_icons=true&theme=default&hide_border=true&title_color=1A56DB&icon_color=1A56DB)
