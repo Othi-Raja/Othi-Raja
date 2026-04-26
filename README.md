@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=1A56DB&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+OthiRaja;Full+Stack+Developer;UI+Designer" alt="Typing SVG" /> 
    
 ### Full Stack Developer & UI Designer   
-    
+     
 [![Portfolio](https://img.shields.io/badge/Portfolio-1A56DB?style=for-the-badge&logo=firefox&logoColor=white)](https://othi-raja.github.io/OthiRaja/) 
 [![Resume](https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=googledrive&logoColor=white)](https://www.canva.com/design/DAF0cDxrFUo/view)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othi-raja-45176b255/)
