@@ -40,7 +40,7 @@
 
 ---
 
-<div align="center">
+<div align="center"> 
 
 ![OthiRaja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Othi-Raja&show_icons=true&theme=default&hide_border=true&title_color=1A56DB&icon_color=1A56DB)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Othi-Raja&layout=compact&hide_border=true&title_color=1A56DB&theme=default)
