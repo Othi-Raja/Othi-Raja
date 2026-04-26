@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=1A56DB&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+OthiRaja;Full+Stack+Developer;UI+Designer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=1A56DB&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+OthiRaja;Full+Stack+Developer;UI+Designer" alt="Typing SVG" /> 
 
 ### Full Stack Developer & UI Designer
 
